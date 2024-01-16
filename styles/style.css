@@ -1,0 +1,27 @@
+body{
+    background: black;
+}
+h1{ 
+    padding: 5%;
+    font-family: 'Roboto', sans-serif;
+    color: orange;
+    text-align: center;
+}
+img{
+    height: 40%;
+    width: 15%;
+    position: absolute;
+    top: 25%;
+    right: 43%;
+}
+button{
+    position: absolute;
+    top: 70%;
+    right: 47%;
+}
+p{
+    color: white;
+    position: absolute;
+    top: 80%;
+    text-align: center;
+}
